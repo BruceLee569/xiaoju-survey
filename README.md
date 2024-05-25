@@ -107,7 +107,7 @@ Node版本 >= 18.x，
 
 复制工程
 ```shell
-git clone git@github.com:didi/xiaoju-survey.git
+git clone https://github.com/didi/xiaoju-survey.git
 ```
 
 ## 服务端启动
@@ -117,7 +117,7 @@ git clone git@github.com:didi/xiaoju-survey.git
 
 #### 1、安装依赖
 ```shell
-cd server
+cd xiaoju-survey/server
 npm install
 ```
 
